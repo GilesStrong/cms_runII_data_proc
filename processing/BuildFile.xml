@@ -2,6 +2,7 @@
 <use name="rootmath" />
 <use name="rootcore"/>
 <use name="cms_hh_proc_interface/processing" />
+<use name="PhysicsTools/FWLite" />
 
 <export>
     <lib name="1" />
