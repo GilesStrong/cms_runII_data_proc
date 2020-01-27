@@ -3,7 +3,7 @@
     <use name="cms_hh_proc_interface/processing" />
     <use name="root" />
     <use name="rootmath" />
-    <use name="roottreetreeplayer"/>
+    <use name="roottree"/>
     <use name="rootcore"/>
     <use name="rootinternal" />
 </bin>
