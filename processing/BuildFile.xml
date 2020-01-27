@@ -1,8 +1,6 @@
 <use name="root" />
 <use name="rootmath" />
 <use name="rootcore"/>
-<use name="roottree"/>
-<use name="rootinternal" />
 <use name="cms_hh_proc_interface/processing" />
 
 <export>
